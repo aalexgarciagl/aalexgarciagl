@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Alejandro García
 
-<!--
-**aalexgarciagl/aalexgarciagl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web freelance en Ciudad Real, España. Fundador de
+[CrealSoft](https://crealsoft.es) — estudio de diseño y desarrollo web
+a medida para pymes y autónomos.
 
-Here are some ideas to get you started:
+## En qué trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Webs corporativas, tiendas online, landing pages que convierten y
+software a medida cuando los negocios crecen más allá del Excel.
+
+## Stack que uso a diario
+
+`Angular 21 SSR` · `TypeScript estricto` · `Node.js + Fastify` · `Prisma + MySQL` · `Tailwind`
+
+## Proyectos open source
+
+Lo que publico bajo la marca vive en la organización
+[@CrealSoft](https://github.com/CrealSoft). En este perfil personal
+encontrarás experimentos, contribuciones y proyectos sueltos.
+
+## Contacto
+
+- Web: [crealsoft.es](https://crealsoft.es)
+- Email: [alejandro.garcia@crealsoft.es](mailto:alejandro.garcia@crealsoft.es)
+- Ciudad Real, España
